@@ -13,10 +13,13 @@ Recipe Detail Page
 <img width="508" alt="Screenshot 2025-04-06 at 6 38 56 PM" src="https://github.com/user-attachments/assets/c89cbfd8-fefd-4033-966e-86c8f43e50b8" />
 
 Main Page on Malformed/Empty Data
+
 <img width="508" alt="Screenshot 2025-04-06 at 6 41 42 PM" src="https://github.com/user-attachments/assets/e12d8bd0-a228-4411-b7e7-7474a687f101" />
+
 <img width="464" alt="Screenshot 2025-04-06 at 6 42 12 PM" src="https://github.com/user-attachments/assets/be659a84-df9d-421d-9ccf-69c43f4add73" />
 
 Deployed it on VisionOS for a Tiny Flex (Recipe App on Vision Pro is a Great Idea!)
+
 <img width="911" alt="Screenshot 2025-04-06 at 7 02 30 PM" src="https://github.com/user-attachments/assets/1be07fdd-b2dd-47c1-a0dd-259412060c70" />
 
 
@@ -39,5 +42,3 @@ Since the project had a clear focus on concurrency, clean architecture, and avoi
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 
 The weakest part is probably the visual design. The layout is functional and responsive, but pretty minimal. I didn’t spend much time finetuning spacing, colors, or adding custom styling. That said, I don’t think that was the focus here. I made sure the structure was clean, the logic was efficient, and the experience was solid overall.
-
-### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
