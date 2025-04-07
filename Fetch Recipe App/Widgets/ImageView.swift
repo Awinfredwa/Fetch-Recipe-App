@@ -21,6 +21,7 @@ struct ImageView: View {
                 ProgressView()
             }
         }
+        // Load image only when they appear
         .onAppear {
             Task {
                 await loadImage()

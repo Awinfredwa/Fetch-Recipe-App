@@ -42,4 +42,9 @@ final class ImageCache {
         save(data: data, for: url)
         return image
     }
+    
+    // For test access only
+    var cacheDirectory: URL {
+        return cacheDir
+    }
 }
