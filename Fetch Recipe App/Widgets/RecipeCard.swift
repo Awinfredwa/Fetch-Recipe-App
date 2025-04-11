@@ -35,12 +35,11 @@ struct RecipeCard: View {
                 .foregroundStyle(.secondary)
               
         }
-        .buttonBorderShape(.roundedRectangle(radius: 8))
         .padding(8)
         .background(Color(.systemBackground))
-        //.cornerRadius(16)
+        .cornerRadius(16)
         .shadow(color: .black.opacity(0.1), radius: 5, x: 0, y: 2)
-        // For visionOS UI
+       
         
     }
 }
